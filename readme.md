@@ -4,9 +4,8 @@ Proyecto académico desarrollado por estudiantes de la Universidad Tecnológica 
 
 ## Integrantes
 - Ian Ramos
-- Josua Martínez
+- Jean Janten
 - Cristhofer Villarreal
-- Omar Herrera
 - Ivan Justavino
 
 ## Descripción
